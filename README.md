@@ -1,4 +1,4 @@
-# Jupyter_web_CovID
+# Program_Identifikasi_COVID-19
 aplikasi identifikasi COVID-19
 
 untuk menggunakan program, jalankan "program.py" pada aplikasi yang bisa menjalankan program dengan bahasa pemrograman Python
